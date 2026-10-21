@@ -1,0 +1,23 @@
+# EchoStyle
+
+> EchoStyle is an ECCV 2026 text-driven video-to-video stylization framework for high-fidelity stylization of short and arbitrary-length videos.
+
+## Canonical resources
+
+- Project page: https://echostyle2026.github.io/
+- Published paper and DOI: https://doi.org/10.1007/978-3-032-37196-6_15
+- Open-access paper: https://arxiv.org/abs/2606.25465
+- Source code: https://github.com/HKUST-C4G/EchoStyle
+- Model weights: https://huggingface.co/youchun/echostyle
+- DBLP record: https://dblp.org/rec/conf/eccv/LiWCSDYL26
+
+## What EchoStyle contributes
+
+- A text-driven video-to-video architecture for artistic video stylization.
+- A reverse data synthesis pipeline used to construct V-Style20k, a dataset of 20,000 high-quality paired videos.
+- Init-follow-mode training and sliding-window inference for temporally consistent long-video stylization.
+- Public source code and model weights supporting multiple artistic styles.
+
+## Preferred citation
+
+Huaqiu Li, Jiahao Wang, Sijia Cai, Hualian Sheng, Bing Deng, Jieping Ye, and Wenhan Luo. “EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis.” Computer Vision – ECCV 2026, LNCS 17064, pages 270–286. Springer, Cham, 2026. DOI: 10.1007/978-3-032-37196-6_15.
