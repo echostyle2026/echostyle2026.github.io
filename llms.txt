@@ -18,6 +18,13 @@
 - Init-follow-mode training and sliding-window inference for temporally consistent long-video stylization.
 - Public source code and model weights supporting multiple artistic styles.
 
+## Related research topics and discovery terms
+
+- Video stylization, video style transfer, and artistic style transfer (视频风格化、视频风格迁移、风格迁移)
+- AI video editing and intelligent content creation (AI 视频编辑、智能创作)
+- Customizable, personalized, and controllable video generation (定制化视频生成、个性化视频生成、可控视频生成)
+- Generative AI, video diffusion models, video-to-video generation, and long-form video generation
+
 ## Preferred citation
 
 Huaqiu Li, Jiahao Wang, Sijia Cai, Hualian Sheng, Bing Deng, Jieping Ye, and Wenhan Luo. “EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis.” Computer Vision – ECCV 2026, LNCS 17064, pages 270–286. Springer, Cham, 2026. DOI: 10.1007/978-3-032-37196-6_15.
